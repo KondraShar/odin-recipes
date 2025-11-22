@@ -1,0 +1,16 @@
+.landing-container {
+    height: auto;
+    width: 300px;
+    margin: 20px auto;
+    padding: 12px 15px;
+    background-color: rgb(124, 154, 126);
+}
+
+h1 {
+    text-align: center;
+}
+
+.goto-recipes {
+    padding: 10px;
+    background-color: rgb(250, 239, 222);
+}
